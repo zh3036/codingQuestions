@@ -1,2 +1,2 @@
 # codingQuestions
-um, ask in pull request
+um, ask in issues
