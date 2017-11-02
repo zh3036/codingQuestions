@@ -23,6 +23,8 @@ Sep 1-8: IOI 2018 in Japan
 
 [official resources website](http://www.usaco.org/index.php?page=resources) 
 
+[内部收集资源](https://drive.google.com/drive/folders/0B-0T-MN-0iV5b3lvXy1TdS10b2s?usp=sharing)
+
 有发现的不错的资源 可以推荐在[issues](https://github.com/zh3036/codingQuestions/issues) 我可以加进来
 
 # 疑问？
