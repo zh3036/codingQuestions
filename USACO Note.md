@@ -1,3 +1,7 @@
+# what is this
+stoooges的usaco学习小组的页面 这里有一些基本的instruction 和一些推荐的资源 
+
+
 # usaco 2017 - 2018 schedule 
 
 Dec 15-18: First Contest 
@@ -18,14 +22,21 @@ Sep 1-8: IOI 2018 in Japan
 
 2. register at usaco contest website [link](http://www.usaco.org/index.php) 这个和上边的不一样 要再注册一个 是用来比赛的
 
+# how to start 
+
+usaco training website[link](http://train.usaco.org/)   提供一套非常comprehensive的训练，请先尽量试图独立完成。 
+
+如果在某个点卡住，请在 [forum](https://github.com/zh3036/codingQuestions/issues) 发帖说明你卡住的section和problem。然后我可以给你推荐相关学习材料，或者直接给你解答。
+
 
 # resources
 
-[official resources website](http://www.usaco.org/index.php?page=resources) 
+这是官网的一些资源 [official resources website](http://www.usaco.org/index.php?page=resources) 
 
-[内部收集资源](https://drive.google.com/drive/folders/0B-0T-MN-0iV5b3lvXy1TdS10b2s?usp=sharing)
+这是我个人收集的一些 [内部收集资源](https://drive.google.com/drive/folders/0B-0T-MN-0iV5b3lvXy1TdS10b2s?usp=sharing)
 
 有发现的不错的资源 可以推荐在[issues](https://github.com/zh3036/codingQuestions/issues) 我可以加进来
 
 # 疑问？
+
 [来这儿问](https://github.com/zh3036/codingQuestions/issues) 
