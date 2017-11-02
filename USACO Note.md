@@ -1,5 +1,6 @@
 # what is this
 stoooges的usaco学习小组的页面 这里有一些基本的instruction 和一些推荐的资源 
+此页面会不断更新，建议点右上角的star 和watch
 
 
 # usaco 2017 - 2018 schedule 
@@ -33,7 +34,8 @@ usaco training website[link](http://train.usaco.org/)   提供一套非常compr
 
 这是官网的一些资源 [official resources website](http://www.usaco.org/index.php?page=resources) 
 
-这是我个人收集的一些 [内部收集资源](https://drive.google.com/drive/folders/0B-0T-MN-0iV5b3lvXy1TdS10b2s?usp=sharing)
+这是我个人收集的一些 [内部收集资源](https://drive.google.com/drive/folders/0B-0T-MN-0iV5b3lvXy1TdS10b2s?usp=sharing) 这个资源比较多 需要慢慢上传，如果发现里边没有东西 请过一段时间再检查
+
 
 有发现的不错的资源 可以推荐在[issues](https://github.com/zh3036/codingQuestions/issues) 我可以加进来
 
