@@ -39,6 +39,7 @@ usaco training website[link](http://train.usaco.org/)   提供一套非常compr
 [算法网站A](http://www.csie.ntnu.edu.tw/~u91029/)
 
 [coursera STF algoritm](https://www.coursera.org/specializations/algorithms) 这个stanford的specialization是收费的 但是可以通过搜索具体 免费旁听
+
 [清华xuegangX 网课](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) 这个是清华的教授讲的 
 ## 其他几本不错的书 
 [princeton的一本算法书](https://algs4.cs.princeton.edu/home/) 这本书浅显易懂 讲了一些基本的重要算法 链接是免费的online版本 其中chapter 2,3可以跳过，因为如果你用python，这些算法都是内置的，重点看1,4,5。
